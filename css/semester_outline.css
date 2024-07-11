@@ -1,0 +1,59 @@
+body{
+    padding-top: 2rem;
+    padding-left: 2rem;
+    padding-right: 1rem;
+    background-color:rgb(242, 235, 220);
+    font-family: monospace;
+    font-size: large;
+    font-weight: normal;
+    letter-spacing: 1.5px;
+}
+
+th{
+    font-weight: bolder;
+}
+
+
+.content{
+    border-spacing: 50px;
+}
+table{
+    height: 100%;
+    width: auto;
+    
+}
+
+a{
+    max-width: 100%;
+    white-space: nowrap;
+    border: 5px dashed; 
+    background-color: bisque;
+    border-radius: 20px;
+    padding: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 50%;
+    text-decoration: none;
+    color:darkslategray;
+    font-weight: bold;
+}
+a:hover,
+a:focus{
+    color:rgb(247, 236, 221);
+    background-color: darkslategray;
+}
+
+
+.routine{
+    border-spacing: 20px;
+    border : 2px dotted;
+    border-collapse: separate;
+    text-indent: initial;
+    border-spacing: 10px;
+}
+
+
+th,td{
+   padding: 10 px;
+    text-align: center;
+}

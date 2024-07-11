@@ -1,0 +1,51 @@
+body{
+    padding-top: 2rem;
+    padding-left: 2rem;
+    padding-right: 1rem;
+    background-color:rgb(242, 235, 220);
+    font-family: monospace;
+    font-size: large;
+    font-weight: bold;
+    letter-spacing: 1.5px;
+}
+
+figure{
+    margin-left: 0%;
+}
+
+h2{
+    letter-spacing: 1.75rem;
+}
+
+p{
+    text-align: justify;
+    line-height: 2rem;
+}
+
+.academic-icon {
+    margin-left: 0%;
+    height: 50%;
+}
+
+a{
+    
+    max-width: fit-content;
+    max-width: fit-content;
+    border: 5px dashed; 
+    background-color: bisque;
+    border-radius: 20px;
+    padding: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 50%;
+    text-decoration: none;
+    color:darkslategray;
+    font-weight: bold;
+}
+
+a:hover,
+a:focus{
+    color:rgb(247, 236, 221);
+    background-color: darkslategray;
+}
+
